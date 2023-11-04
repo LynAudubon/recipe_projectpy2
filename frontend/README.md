@@ -1,3 +1,7 @@
+To start app navigate to frontend folder: "npm run dev"
+then, navigate to backend folder: "python -m flask run"
+then, open up at localhost 3000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

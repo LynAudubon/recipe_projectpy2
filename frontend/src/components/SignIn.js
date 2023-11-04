@@ -8,7 +8,7 @@ function SignIn() {
     <main style={{ display:"flex", alignItems:"center", justifyContent:"center", paddingTop:"35px"}}>
       <Grid>
         <Grid container>
-             <img src={Pic} style={{borderRadius:"10px"}} height='525' width='600' alt='recipe'/>
+             <img src={Pic} style={{borderRadius:"200px"}} height='525' width='700' alt='recipe'/>
         </Grid>
       </Grid>
     </main>
